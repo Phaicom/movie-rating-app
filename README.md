@@ -1,5 +1,5 @@
 # movie_rating_app
-
+[![Build Status](https://travis-ci.org/Phaicom/movie_rating_app.svg?branch=master)](https://travis-ci.org/Phaicom/movie_rating_app)
 > A Vue.js project
 
 ## Build Setup
