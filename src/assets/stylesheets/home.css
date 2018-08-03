@@ -1,0 +1,44 @@
+#app {
+  font-family: "Avenir", Helvetica, Arial, sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  text-align: center;
+  color: #2c3e50;
+  width: 100%;
+}
+
+.container.fill-height {
+  align-items: normal;
+}
+
+a.side_bar_link {
+  text-decoration: none;
+}
+
+.card__title--primary,
+.card__text {
+  text-align: left;
+}
+
+.card {
+  height: 100% !important;
+}
+
+.time {
+  font-size: 13px;
+  color: #999;
+}
+
+.bottom {
+  margin-top: 13px;
+  line-height: 12px;
+}
+
+.image {
+  width: 100%;
+  display: block;
+}
+
+.el-col {
+  margin-bottom: 20px;
+}

@@ -1,0 +1,14 @@
+@import "./home.css";
+
+.el-aside {
+  border-right: solid 1px #e6e6e6;
+}
+
+.el-menu-vertical {
+  border: none;
+}
+
+.el-menu-vertical:not(.el-menu--collapse) {
+  width: 200px;
+  min-height: 400px;
+}
