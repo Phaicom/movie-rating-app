@@ -7,7 +7,7 @@ describe("Contact.vue", () => {
     const Constructor = Vue.extend(Contact);
     const vm = new Constructor().$mount();
     expect(vm.$el.querySelector(".contact h1").textContent).to.equal(
-      "this is contact"
+      "this is contact :)"
     );
   });
 });
